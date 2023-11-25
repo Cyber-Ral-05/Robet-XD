@@ -16,6 +16,8 @@
 
 # pip install rich
 
+# pip install stdiomask
+
 # git clone https://github.com/Cyber-Ral-05/Robet-XD
 
 # ls
